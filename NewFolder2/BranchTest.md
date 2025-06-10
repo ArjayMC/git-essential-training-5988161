@@ -1,1 +1,2 @@
 BranchTest message
+BranchTest2
