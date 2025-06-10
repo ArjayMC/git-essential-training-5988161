@@ -1,2 +1,2 @@
 BranchTest message
-BranchTest2
+This is test branch message is the best
